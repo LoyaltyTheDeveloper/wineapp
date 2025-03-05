@@ -38,7 +38,7 @@ function Navbar() {
         </button>
 
         <div className="md:flex w-full px-[5%] py-4 justify-center lg:justify-between flex items-center">
-          <span className="font-semibold text-[27px] flex text-blue-600 font-bitter cursor-pointer"><Link to="/">Afrique en primeurs</Link></span>
+          <span className="font-semibold text-[24px] lg:text-[30px] flex text-blue-600 font-bitter cursor-pointer"><a href="/">Afrique en primeurs</a></span>
     
           <div className='flex hidden lg:flex text-[black] gap-x-4 font-semibold text-lg font-sans'>
             <div className='hover:animate-bounce cursor-pointer'>Invest</div>
